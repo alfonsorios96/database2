@@ -1,0 +1,6 @@
+nbproject/*
+web/*
+src/conf/*
+build.xml
+build/*
+catalog.xml
